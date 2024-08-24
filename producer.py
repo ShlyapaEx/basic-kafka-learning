@@ -1,5 +1,4 @@
 import random
-from uuid import uuid4
 
 from kafka import KafkaProducer
 from kafka.admin import KafkaAdminClient, NewTopic
